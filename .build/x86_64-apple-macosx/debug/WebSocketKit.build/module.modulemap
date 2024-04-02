@@ -1,0 +1,4 @@
+module WebSocketKit {
+    header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketKit-Swift.h"
+    requires objc
+}

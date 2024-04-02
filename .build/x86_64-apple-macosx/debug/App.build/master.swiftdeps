@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1651881969, 677099943]
+build_end_time: [1651881970, 704059123]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/Sources/App/Migrations/CreateAcronym.swift": [1651869991, 775550842]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/Sources/App/Models/Acronym.swift": [1651881645, 242088794]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/Sources/App/configure.swift": [1651881645, 269567489]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/Sources/App/routes.swift": [1651869585, 221586942]

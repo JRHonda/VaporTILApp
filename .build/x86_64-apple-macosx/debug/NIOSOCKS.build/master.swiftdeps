@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1651881931, 583331108]
+build_end_time: [1651881934, 538450002]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift"
+  : [1651881880, 505765914]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift"
+  : [1651881880, 506040573]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift": [1651881880, 506517410]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift": [1651881880, 506786346]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift": [1651881880, 507015228]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift": [1651881880, 507339000]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift": [1651881880, 524111986]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift": [1651881880, 524374246]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift": [1651881880, 524600982]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift"
+  : [1651881880, 524882078]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift": [1651881880, 525459289]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift": [1651881880, 525706768]

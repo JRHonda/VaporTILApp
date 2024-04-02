@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1651881935, 683731079]
+build_end_time: [1651881939, 257522106]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1651881882, 243381023]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift": [1651881882, 243659019]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketFrameAggregator.swift": [1651881882, 243882179]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift": [1651881882, 244140625]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1651881882, 244373321]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1651881882, 244619607]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1651881882, 244898796]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1651881882, 245181798]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1651881882, 245481729]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1651881882, 245751857]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1651881882, 245986461]

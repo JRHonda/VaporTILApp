@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1651881931, 582815170]
+build_end_time: [1651881935, 584419012]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1651881882, 198034763]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1651881882, 198472976]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1651881882, 198853969]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1651881882, 199164628]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1651881882, 199803829]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1651881882, 200087785]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift": [1651881882, 200388431]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1651881882, 200875997]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift": [1651881882, 201211452]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift": [1651881882, 201532602]

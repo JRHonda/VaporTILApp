@@ -1,0 +1,4 @@
+module NIOHTTPCompression {
+    header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/NIOHTTPCompression.build/NIOHTTPCompression-Swift.h"
+    requires objc
+}

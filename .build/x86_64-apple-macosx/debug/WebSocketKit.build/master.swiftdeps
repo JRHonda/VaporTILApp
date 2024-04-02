@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "b621fd5633046df513e0dd2e79a03211bf5b1c49c470eee462c55a90a663a78e"
+build_start_time: [1651881942, 904889106]
+build_end_time: [1651881944, 997288942]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1651881885, 105076789]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1651881885, 105350494]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift": [1651881885, 105573177]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1651881885, 105805397]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1651881885, 106110572]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1651881885, 106696128]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1651881885, 107273578]

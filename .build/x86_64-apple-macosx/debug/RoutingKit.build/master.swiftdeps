@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1651881900, 834754943]
+build_end_time: [1651881920, 725250959]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift": [1651881885, 892791271]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1651881885, 893092632]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1651881885, 893279314]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1651881885, 893504142]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1651881885, 893837928]

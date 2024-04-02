@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Locks.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Locks.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Locks~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Locks.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Metrics.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Metrics.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Metrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/CoreMetrics.build/Metrics.swiftdeps"
+  }
+}

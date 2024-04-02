@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1651881968, 51027059]
+build_end_time: [1651881969, 547464847]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift": [1651881890, 237129211]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift": [1651881890, 237392902]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift": [1651881890, 237653255]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1651881890, 237889766]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1651881890, 238145112]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1651881890, 238413810]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1651881890, 238677501]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1651881890, 238890647]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1651881890, 239110469]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1651881890, 239428043]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1651881890, 239702224]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift": [1651881890, 239981651]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift": [1651881890, 240190505]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift": [1651881890, 240402698]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1651881890, 240591287]

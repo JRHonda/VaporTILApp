@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1651881952, 490683078]
+build_end_time: [1651881954, 977231979]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift": [1651881885, 505243778]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder+JSONDecoder.swift"
+  : [1651881885, 505778312]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": [1651881885, 506103515]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresClient+SQL.swift": [1651881885, 506433010]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresColumnType.swift": [1651881885, 506776332]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConfiguration.swift": [1651881885, 507108688]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift": [1651881885, 523855209]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataDecoder.swift": [1651881885, 524246692]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataEncoder.swift": [1651881885, 524763107]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift": [1651881885, 525053262]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift": [1651881885, 525311946]

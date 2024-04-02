@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1651881900, 834341049]
+build_end_time: [1651881906, 875153064]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1651881889, 777900695]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1651881889, 778187513]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1651881889, 778738021]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/Sources/Run/main.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

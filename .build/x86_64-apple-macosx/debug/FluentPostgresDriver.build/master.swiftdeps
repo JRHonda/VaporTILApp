@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1651881955, 100859165]
+build_end_time: [1651881956, 483172893]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Exports.swift": [1651881888, 297182559]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresConfiguration.swift"
+  : [1651881888, 297657012]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDatabase.swift"
+  : [1651881888, 297973155]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDriver.swift"
+  : [1651881888, 298367977]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresConverterDelegate.swift"
+  : [1651881888, 298665523]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresError+Database.swift"
+  : [1651881888, 299008369]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresRow+Database.swift"
+  : [1651881888, 299242019]

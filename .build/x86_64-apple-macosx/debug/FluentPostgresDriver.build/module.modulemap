@@ -1,0 +1,4 @@
+module FluentPostgresDriver {
+    header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver-Swift.h"
+    requires objc
+}

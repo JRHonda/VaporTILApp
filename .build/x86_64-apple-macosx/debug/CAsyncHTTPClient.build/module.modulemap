@@ -1,0 +1,4 @@
+module CAsyncHTTPClient {
+    umbrella header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/CAsyncHTTPClient/include/CAsyncHTTPClient.h"
+    export *
+}

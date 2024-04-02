@@ -1,0 +1,91 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1651881937, 789379119]
+build_end_time: [1651881942, 729209899]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/ConnectionStateMachine.swift"
+  : [1651881882, 987926483]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/ConnectionStreamsState.swift"
+  : [1651881882, 988214969]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/MayReceiveFrames.swift"
+  : [1651881882, 988971471]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingDataState.swift"
+  : [1651881882, 989174842]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingGoAwayState.swift"
+  : [1651881882, 989424228]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingHeadersState.swift"
+  : [1651881882, 989616632]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingPushPromiseState.swift"
+  : [1651881882, 989874362]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingRstStreamState.swift"
+  : [1651881882, 990119457]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingWindowUpdateState.swift"
+  : [1651881882, 990335941]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/MaySendFrames.swift"
+  : [1651881882, 990773677]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingDataState.swift"
+  : [1651881882, 991006851]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingGoawayState.swift"
+  : [1651881882, 991179466]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingHeadersState.swift"
+  : [1651881882, 991418361]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingPushPromiseState.swift"
+  : [1651881882, 991683721]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingRstStreamState.swift"
+  : [1651881882, 991933584]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingWindowUpdateState.swift"
+  : [1651881882, 992121219]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HTTP2SettingsState.swift"
+  : [1651881882, 992372035]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasFlowControlWindows.swift"
+  : [1651881882, 992634296]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasLocalSettings.swift"
+  : [1651881882, 992873907]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasRemoteSettings.swift"
+  : [1651881882, 993161678]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/LocallyQuiescingState.swift"
+  : [1651881882, 993391752]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/QuiescingState.swift"
+  : [1651881882, 993573188]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/RemotelyQuiescingState.swift"
+  : [1651881882, 993767738]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/SendAndReceiveGoawayState.swift"
+  : [1651881882, 994115829]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/StateMachineResult.swift"
+  : [1651881882, 994338274]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ContentLengthVerifier.swift": [1651881882, 994590044]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/DOSHeuristics.swift": [1651881882, 994942665]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/ConcurrentStreamBuffer.swift"
+  : [1651881882, 995603799]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/ControlFrameBuffer.swift"
+  : [1651881882, 996400594]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/OutboundFlowControlBuffer.swift"
+  : [1651881882, 996937036]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/OutboundFrameBuffer.swift"
+  : [1651881882, 997368574]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HPACKHeaders+Validation.swift": [1651881882, 998655080]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler.swift": [1651881882, 999393463]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ConnectionStateChange.swift": [1651881882, 999833583]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Error.swift": [1651881883, 356197]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ErrorCode.swift": [1651881883, 769138]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FlowControlWindow.swift": [1651881883, 1214504]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Frame.swift": [1651881883, 1818656]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FrameEncoder.swift": [1651881883, 2503633]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FrameParser.swift": [1651881883, 2819538]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2PingData.swift": [1651881883, 3111839]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2PipelineHelpers.swift": [1651881883, 3407001]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Settings.swift": [1651881883, 3824234]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Stream.swift": [1651881883, 4097461]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamChannel.swift": [1651881883, 4455804]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamID.swift": [1651881883, 4741191]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamMultiplexer.swift": [1651881883, 5249977]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ToHTTP1Codec.swift": [1651881883, 5643844]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2UserEvents.swift": [1651881883, 5911827]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/InboundEventBuffer.swift": [1651881883, 6155490]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/InboundWindowManager.swift": [1651881883, 6422519]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/MultiplexerAbstractChannel.swift": [1651881883, 6672143]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamChannelFlowController.swift": [1651881883, 6919384]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamChannelList.swift": [1651881883, 7157564]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamMap.swift": [1651881883, 23914337]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamStateMachine.swift": [1651881883, 24830341]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/WatermarkedFlowController.swift": [1651881883, 25196790]

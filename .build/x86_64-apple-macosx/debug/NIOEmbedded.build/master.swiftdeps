@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "16d7dad600fcb7ff2320606f53265fe3d595aa2a55b147bfb23cc3bb0113d567"
+build_start_time: [1651881928, 680696010]
+build_end_time: [1651881929, 875434875]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1651881882, 196488857]

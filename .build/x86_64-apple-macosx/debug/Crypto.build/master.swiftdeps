@@ -1,0 +1,83 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "0297941e35f40845c97680f1b0257d92fedbd8ca298b5a4ac5482a4280a49242"
+build_start_time: [1651881900, 848557949]
+build_end_time: [1651881920, 874974012]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift": [1651881886, 604814052]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift"
+  : [1651881886, 605237007]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift"
+  : [1651881886, 605809926]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift": [1651881886, 606061697]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift": [1651881886, 606301784]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift": [1651881886, 606558322]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift": [1651881886, 607263326]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift": [1651881886, 624118804]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift": [1651881886, 624382495]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift": [1651881886, 624670505]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift"
+  : [1651881886, 624916076]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift"
+  : [1651881886, 625156879]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift"
+  : [1651881886, 625437974]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift": [1651881886, 625736951]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift": [1651881886, 626017570]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift": [1651881886, 626330375]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift": [1651881886, 626619100]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift": [1651881886, 626893520]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift": [1651881886, 627373218]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift": [1651881886, 628024101]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift": [1651881886, 628265380]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift": [1651881886, 628543853]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift": [1651881886, 629042148]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift": [1651881886, 629275798]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift": [1651881886, 629674434]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift": [1651881886, 629919052]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift": [1651881886, 630550384]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift": [1651881886, 630828380]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift": [1651881886, 631097555]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift": [1651881886, 631818294]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift": [1651881886, 632175445]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift"
+  : [1651881886, 632522821]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift": [1651881886, 633172750]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurvePoint_boring.swift"
+  : [1651881886, 633513927]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurve_boring.swift"
+  : [1651881886, 633789062]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift"
+  : [1651881886, 634048700]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift": [1651881886, 634317398]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift": [1651881886, 634554386]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519.swift": [1651881886, 634793281]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift": [1651881886, 635032892]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift": [1651881886, 635293960]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift": [1651881886, 635664939]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift"
+  : [1651881886, 636248111]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift"
+  : [1651881886, 636481285]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift"
+  : [1651881886, 636749267]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": [1651881886, 637110233]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift"
+  : [1651881886, 637621402]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift": [1651881886, 637830018]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift": [1651881886, 638355493]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift": [1651881886, 638598203]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/EdDSA.swift": [1651881886, 639086723]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift": [1651881886, 639376163]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/ArbitraryPrecisionInteger_boring.swift"
+  : [1651881886, 640028476]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift"
+  : [1651881886, 640229940]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/FiniteFieldArithmeticContext_boring.swift"
+  : [1651881886, 640938758]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift": [1651881886, 641214370]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift": [1651881886, 641436100]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift": [1651881886, 641716003]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift": [1651881886, 641902208]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift": [1651881886, 642089128]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift": [1651881886, 642382383]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift": [1651881886, 642680406]

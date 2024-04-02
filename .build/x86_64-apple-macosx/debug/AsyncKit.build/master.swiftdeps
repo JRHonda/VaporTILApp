@@ -1,0 +1,31 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1651881931, 584949970]
+build_end_time: [1651881944, 794316053]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolError.swift": [1651881884, 724168300]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolItem.swift": [1651881884, 724453926]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolSource.swift": [1651881884, 724727153]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopConnectionPool.swift"
+  : [1651881884, 725001811]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopGroupConnectionPool.swift"
+  : [1651881884, 725679636]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Concurrency.swift": [1651881884, 726093769]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Flatten.swift": [1651881884, 726330518]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Future.swift": [1651881884, 726572513]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Concurrency.swift": [1651881884, 726819753]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Throwing.swift": [1651881884, 727021217]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Collection+Flatten.swift": [1651881884, 727397441]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue+Sequence.swift"
+  : [1651881884, 727744579]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue.swift": [1651881884, 728030920]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Collection.swift": [1651881884, 728318214]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Conjunctions.swift": [1651881884, 728677034]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Miscellaneous.swift": [1651881884, 728980541]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Nonempty.swift": [1651881884, 729207038]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Optional.swift": [1651881884, 729449748]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Transform.swift": [1651881884, 729656219]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Try.swift": [1651881884, 729870796]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureOperators.swift": [1651881884, 730137348]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Optional+StrictMap.swift": [1651881884, 730391025]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-kit/Sources/AsyncKit/Exports.swift": [1651881884, 730607032]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1651881931, 582115173]
+build_end_time: [1651881933, 975964069]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1651881882, 239820003]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1651881882, 240127563]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1651881882, 240360260]

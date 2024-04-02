@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1651881931, 583405017]
+build_end_time: [1651881935, 339308023]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugInboundEventsHandler.swift": [1651881880, 495292186]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugOutboundEventsHandler.swift": [1651881880, 495545625]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/FixedLengthFrameDecoder.swift": [1651881880, 496192455]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift"
+  : [1651881880, 496540069]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming.swift": [1651881880, 496887922]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift": [1651881880, 497241020]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldPrepender.swift": [1651881880, 497503757]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LineBasedFrameDecoder.swift": [1651881880, 497770786]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOExtrasError.swift": [1651881880, 498029232]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOLengthFieldBitLength.swift": [1651881880, 498646736]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/PCAPRingBuffer.swift": [1651881880, 498896121]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/QuiescingHelper.swift": [1651881880, 499272584]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseHandler.swift": [1651881880, 499588966]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOExtras/WritePCAPHandler.swift": [1651881880, 500007629]

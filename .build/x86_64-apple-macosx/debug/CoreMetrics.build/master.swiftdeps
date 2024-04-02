@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1651881900, 834213018]
+build_end_time: [1651881906, 925192832]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1651881878, 676730155]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": [1651881878, 677262067]

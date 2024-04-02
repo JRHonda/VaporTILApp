@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1651881950, 384036064]
+build_end_time: [1651881952, 576720952]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1651881881, 83909749]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift": [1651881881, 84149837]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1651881881, 84373950]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model+Concurrency.swift": [1651881881, 84618091]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1651881881, 84867477]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift": [1651881881, 85113525]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1651881881, 85365056]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift": [1651881881, 85665941]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1651881881, 85914134]

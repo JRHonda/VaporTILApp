@@ -1,0 +1,97 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8877e9718e73de2f9c9e2c807a5e5d47e2fd41f653dade8b7c89bf10959a9192"
+build_start_time: [1651881943, 883728027]
+build_end_time: [1651881950, 38159847]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+execute.swift"
+  : [1651881879, 978374481]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+shutdown.swift"
+  : [1651881879, 979022502]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+Prepared.swift"
+  : [1651881879, 979282617]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest.swift"
+  : [1651881879, 979575634]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientResponse.swift"
+  : [1651881879, 980153083]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction+StateMachine.swift"
+  : [1651881879, 980575561]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction.swift": [1651881879, 981237411]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Base64.swift": [1651881879, 981528520]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BestEffortHashableTLSConfiguration.swift"
+  : [1651881879, 982565402]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift": [1651881879, 983180046]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift"
+  : [1651881879, 983825206]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift"
+  : [1651881879, 984492778]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/TLSEventsHandler.swift"
+  : [1651881879, 984752655]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift"
+  : [1651881879, 985222816]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1Connection.swift"
+  : [1651881879, 985562324]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift"
+  : [1651881879, 985874652]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift"
+  : [1651881879, 986335754]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2Connection.swift"
+  : [1651881879, 986561298]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2IdleHandler.swift"
+  : [1651881879, 986855745]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionEvent.swift"
+  : [1651881879, 987148284]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Factory.swift"
+  : [1651881879, 987453937]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Manager.swift"
+  : [1651881879, 988351345]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool.swift"
+  : [1651881879, 988791227]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPExecutableRequest.swift"
+  : [1651881879, 989097833]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine+Demand.swift"
+  : [1651881879, 989484071]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine.swift"
+  : [1651881879, 989904880]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestBodyLength.swift"
+  : [1651881879, 990209102]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestFramingMetadata.swift"
+  : [1651881879, 990431308]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestOptions.swift"
+  : [1651881879, 990878582]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift"
+  : [1651881879, 991274356]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift"
+  : [1651881879, 991641998]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift"
+  : [1651881879, 992310762]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift"
+  : [1651881879, 992744445]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift"
+  : [1651881879, 993125915]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift"
+  : [1651881879, 993441104]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift"
+  : [1651881879, 994045019]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionTarget.swift": [1651881879, 994290351]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/DeconstructedURL.swift": [1651881879, 994524002]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift": [1651881879, 994740962]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FoundationExtensions.swift": [1651881879, 995074748]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift": [1651881879, 995610237]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+Proxy.swift": [1651881879, 995905399]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift": [1651881879, 996766805]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift": [1651881879, 997307300]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/LRUCache.swift": [1651881879, 997943401]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift"
+  : [1651881879, 998388290]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift"
+  : [1651881879, 998723506]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RedirectState.swift": [1651881879, 999019145]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+StateMachine.swift"
+  : [1651881879, 999384880]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag.swift": [1651881879, 999850273]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift": [1651881880, 134468]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/SSLContextCache.swift": [1651881880, 756740]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Scheme.swift": [1651881880, 1182317]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift"
+  : [1651881880, 1478910]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": [1651881880, 1746177]

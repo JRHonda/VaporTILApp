@@ -1,0 +1,4 @@
+module RoutingKit {
+    header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/RoutingKit.build/RoutingKit-Swift.h"
+    requires objc
+}

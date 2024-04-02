@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8bd373478bb482d7af0db9cecea26652014cf536b6bfe11b68cda06a15360fa7"
+build_start_time: [1651881970, 798838138]
+build_end_time: [1651881971, 727133035]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/Sources/Run/main.swift": [1651867256, 149640560]

@@ -1,0 +1,4 @@
+module Vapor {
+    header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/Vapor.build/Vapor-Swift.h"
+    requires objc
+}

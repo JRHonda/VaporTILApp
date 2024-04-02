@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1651881935, 683560848]
+build_end_time: [1651881937, 694286823]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1651881882, 983653783]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1651881882, 983919143]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1651881882, 984191417]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1651881882, 984475851]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1651881882, 984840631]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1651881882, 985114574]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1651881882, 985396385]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1651881882, 986496925]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1651881882, 986756086]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1651881882, 986993312]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1651881882, 987192153]

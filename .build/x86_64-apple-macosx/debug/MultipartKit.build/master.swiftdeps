@@ -1,0 +1,75 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1651881935, 689510822]
+build_end_time: [1651881942, 476068019]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift": [1651881887, 479674100]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift": [1651881887, 480060100]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": [1651881887, 480277538]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift"
+  : [1651881887, 480677604]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift"
+  : [1651881887, 480920791]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift"
+  : [1651881887, 481149673]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift"
+  : [1651881887, 481424570]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift"
+  : [1651881887, 482049703]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift"
+  : [1651881887, 482435226]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift"
+  : [1651881887, 482713460]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift"
+  : [1651881887, 482933759]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift"
+  : [1651881887, 483161449]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift"
+  : [1651881887, 483757019]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift": [1651881887, 483973026]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift": [1651881887, 484240055]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift": [1651881887, 484658718]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift": [1651881887, 484923839]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift": [1651881887, 485132455]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift": [1651881887, 485397338]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+Bucket.swift"
+  : [1651881887, 486062288]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+BucketIterator.swift"
+  : [1651881887, 486305713]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+Constants.swift"
+  : [1651881887, 486765384]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift"
+  : [1651881887, 487086296]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable.swift"
+  : [1651881887, 487493515]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_Hashtable+Header.swift"
+  : [1651881887, 487767696]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift"
+  : [1651881887, 488241910]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift"
+  : [1651881887, 488544940]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift"
+  : [1651881887, 488862514]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift"
+  : [1651881887, 489114761]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift"
+  : [1651881887, 489347934]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary.swift"
+  : [1651881887, 489921331]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift"
+  : [1651881887, 490381717]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift"
+  : [1651881887, 490630149]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift"
+  : [1651881887, 490901231]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift"
+  : [1651881887, 491151809]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift"
+  : [1651881887, 491348981]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift"
+  : [1651881887, 491565465]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet.swift"
+  : [1651881887, 491854667]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift"
+  : [1651881887, 492228984]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": [1651881887, 492451667]

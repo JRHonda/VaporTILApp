@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

@@ -1,0 +1,245 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Deprecated/MultipartError.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Deprecated/MultipartError.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Deprecated/MultipartError~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Deprecated/MultipartError.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.Decoder.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.Decoder.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.Decoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.Decoder.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.KeyedContainer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.KeyedContainer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.KeyedContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.KeyedContainer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.SingleValueContainer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.SingleValueContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.SingleValueContainer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.UnkeyedContainer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.UnkeyedContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder/FormDataDecoder.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.Encoder.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.Encoder.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.Encoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.Encoder.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.KeyedContainer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.KeyedContainer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.KeyedContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.KeyedContainer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.SingleValueContainer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.SingleValueContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.SingleValueContainer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.UnkeyedContainer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.UnkeyedContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/FormDataEncoder.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/Storage.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/Storage.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/Storage~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder/Storage.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartFormData.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartFormData.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartFormData~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartFormData.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+Bucket.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Bucket.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Bucket.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Bucket~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Bucket.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+BucketIterator.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+BucketIterator.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+BucketIterator.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+BucketIterator~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+BucketIterator.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+Constants.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Constants.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Constants.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+Constants.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+UnsafeHandle.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+UnsafeHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_HashTable.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_Hashtable+Header.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_Hashtable+Header.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_Hashtable+Header.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_Hashtable+Header~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/HashTable/_Hashtable+Header.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedDictionary/OrderedDictionary.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Equatable.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Equatable.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Insertions.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Insertions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Insertions.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Invariants.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Invariants~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Invariants.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/OrderedSet/OrderedSet.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/Utilities/RandomAccessCollection+Offsets.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/Utilities/RandomAccessCollection+Offsets~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities.swiftdeps"
+  }
+}

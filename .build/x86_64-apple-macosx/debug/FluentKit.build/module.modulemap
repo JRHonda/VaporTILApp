@@ -1,0 +1,4 @@
+module FluentKit {
+    header "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/x86_64-apple-macosx/debug/FluentKit.build/FluentKit-Swift.h"
+    requires objc
+}

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1651881935, 683123111]
+build_end_time: [1651881937, 675661087]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift": [1651881880, 503232479]
+  "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift": [1651881880, 503501892]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift"
+  : [1651881880, 503764629]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift"
+  : [1651881880, 503993511]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift"
+  : [1651881880, 504364967]
+  ? "/Users/vn53uts/Local/Projects/iOS/TILApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift"
+  : [1651881880, 504597425]
